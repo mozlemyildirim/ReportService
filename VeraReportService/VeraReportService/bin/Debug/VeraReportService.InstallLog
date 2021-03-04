@@ -1,0 +1,269 @@
+﻿'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+System.ServiceProcess.ServiceProcessInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+System.ServiceProcess.ServiceProcessInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+System.ServiceProcess.ServiceProcessInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+System.ServiceProcess.ServiceProcessInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+System.ServiceProcess.ServiceProcessInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+System.ServiceProcess.ServiceProcessInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.exe
+   logfile = C:\Users\merve\source\repos\VeraReportService\VeraReportService\bin\Debug\VeraReportService.InstallLog
